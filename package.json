@@ -24,9 +24,7 @@
     "lodash": "~3.8.0",
     "mysql": "~2.6.1",
     "waterline-errors": "~0.10.0",
-    "waterline-sequel": {
-      "version": "git://github.com/goraSi/waterline-sequel"
-    },
+    "waterline-sequel": "git+https://github.com/goraSi/waterline-sequel.git",
     "waterline-cursor": "~0.0.5"
   },
   "devDependencies": {
