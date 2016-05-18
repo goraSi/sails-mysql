@@ -26,7 +26,7 @@
     "mysql": "2.10.2",
     "waterline-cursor": "0.0.6",
     "waterline-errors": "0.10.1",
-    "waterline-sequel": "https://github.com/goraSi/waterline-sequel/tree/0.5.x"
+    "waterline-sequel": "https://github.com/goraSi/waterline-sequel#0.5.x"
   },
   "devDependencies": {
     "captains-log": "~0.11.11",
