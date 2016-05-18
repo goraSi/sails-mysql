@@ -74,9 +74,9 @@
       "resolved": "https://registry.npmjs.org/waterline-errors/-/waterline-errors-0.10.1.tgz"
     },
     "waterline-sequel": {
-      "version": "0.5.6",
-      "from": "https://github.com/goraSi/waterline-sequel.git",
-      "resolved": "https://github.com/goraSi/waterline-sequel.git",
+      "version": "0.5.7",
+      "from": "https://github.com/goraSi/waterline-sequel/tree/0.5.x",
+      "resolved": "https://github.com/goraSi/waterline-sequel/tree/0.5.x",
       "dependencies": {
         "lodash": {
           "version": "3.10.0",
